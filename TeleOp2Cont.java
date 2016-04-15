@@ -17,7 +17,7 @@ public class TeleOp2Cont extends OpMode {
     final double HAND_OPENED_POSITION = 0.0;
     final double HAND_CLOSED_POSITION = 0.5;
     final double ARM_UP_POSITION = 0.0;
-    final double ARM_DOWN_POSITION = 0.5;
+    final double ARM_DOWN_POSITION = 0.8;
 
     public void init() {
 
