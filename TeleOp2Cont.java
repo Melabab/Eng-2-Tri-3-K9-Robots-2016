@@ -15,9 +15,9 @@ public class TeleOp2Cont extends OpMode {
     Servo arm;
 
     final double HAND_OPENED_POSITION = 0.0;
-    final double HAND_CLOSED_POSITION = 0.5;
+    final double HAND_CLOSED_POSITION = 0.8;
     final double ARM_UP_POSITION = 0.0;
-    final double ARM_DOWN_POSITION = 0.8;
+    final double ARM_DOWN_POSITION = 0.5;
 
     public void init() {
 
